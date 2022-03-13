@@ -1,10 +1,4 @@
----
-slug: abandon-film-history
-title: 弃剧史 readme
-authors: alec
-draf: true
-hide_table_of_contents: true
----
+# Readme
 
 弃剧史 - 记录下弃剧的时间点 ，原因
 
