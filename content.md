@@ -1,9 +1,17 @@
+---
+slug: qjs
+title: 弃剧史
+authors: alec
+---
+
 - 古董局中局 第二季 `2020.5.13`  
     > 个人挺喜欢`夏雨`的，第一季其实剧情就有点拖沓，第二季还换了演员（可能先入为主还是觉得`乔振宇`更合适`药不然`,只看魏梗王的话也是看得下去的，女主只看了两集没什么印象，爱情线也是看的很迷茫）  
     弃剧点 `第三集` 记者犯傻导致陷入危险不说，之前在车上以及之后在面馆，通过俩人一问一答的弱智方式推进剧情，实在是看不下去了（想起了姜文说台词不是为了叙事，叙事太简单了，深以为然）  
-    > by [`alec.ji`](http://jichao.top)
+    > by [`alec.ji`](https://blog.jichao.top)
 
 - 人间课堂 `2020.5.15`
     > 弃剧点 `S102` 完全是被女主的一套操作气的心脏疼，看不下去了。看情况之后女主肯定会反转的，但是不想追了。  
     ps 男主看过的演了 `天空之城` `利泰院Class` 和这一部，感觉都不怎么突出，这次也是被女主压着打  
-    > by [`alec.ji`](http://jichao.top)
+    > by [`alec.ji`](https://blog.jichao.top)
+
+[✍️ Edit this Page](https://github.com/JiChao99/abandon-film-history/edit/master/content.md)
