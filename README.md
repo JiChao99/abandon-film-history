@@ -1,7 +1,14 @@
-# abandon-film-history
+---
+slug: abandon-film-history
+title: 弃剧史 readme
+authors: alec
+draf: true
+hide_table_of_contents: true
+---
+
 弃剧史 - 记录下弃剧的时间点 ，原因
 
-欢迎大家来表达自己的观点，可以通过以下途径发表自己的弃剧史（格式见 [content.md](content.md) ，如果你有更好的，可以联系我修改）
+欢迎大家来表达自己的观点，可以通过以下途径发表自己的弃剧史（格式见 [content.md](./content.md) ，如果你有更好的，可以联系我修改）
 
 - [GIT 弃剧史](https://github.com/JiChao99/abandon-film-history)
 - [发邮件给我](mailto:jichao99@outlook.com)
@@ -20,4 +27,6 @@
 - [ ] 加海报照片
 ……
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
+![img](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可。
