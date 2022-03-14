@@ -2,7 +2,7 @@
 
 弃剧史 - 记录下弃剧的时间点 ，原因
 
-欢迎大家来表达自己的观点，可以通过以下途径发表自己的弃剧史（格式见 [content.md](./content.md) ，如果你有更好的，可以联系我修改）
+欢迎大家来表达自己的观点，可以通过以下途径发表自己的弃剧史（格式见 [content.md](./content) ，如果你有更好的，可以联系我修改）
 
 - [GIT 弃剧史](https://github.com/JiChao99/abandon-film-history)
 - [发邮件给我](mailto:jichao99@outlook.com)
